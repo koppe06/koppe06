@@ -1,5 +1,7 @@
-### Hi there 👋
+### キャラクターイラストを描くことが好きです！
+はじめまして。ゲーム制作を中心に勉強しています。
 
+イラスト/3DCG/プログラミング/動画制作
 <!--
 **koppe06/koppe06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
