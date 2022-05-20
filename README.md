@@ -7,6 +7,6 @@
 イラスト/3DCG/プログラミング/動画制作
 
 > 外部リンク  
-> お勉強：[Qiita](https://qiita.com/koppe06 "キータ")
-> ご依頼：[ココナラ](https://coconala.com/users/3070365)
-> 生息地：[Twittr](https://twitter.com/koppe06)
+> お勉強：[Qiita](https://qiita.com/koppe06 "キータ")  
+> ご依頼：[ココナラ](https://coconala.com/users/3070365)  
+> 生息地：[Twittr](https://twitter.com/koppe06)  
